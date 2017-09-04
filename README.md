@@ -1,13 +1,11 @@
-# Conference-Management-Program
-Application for VAMUN XXXVII
-	
-	          C O N F E R E N C E  M A N A G E M E N T  P R O G R A M 
-
-	           Version 1.0.1 | All Rights Reserved | Copyright © 2017	
+# Conference Management Program
+Version 1.0.1 | All Rights Reserved | Copyright © 2017
 
 -------------------------------------------------------------------------------------------
 
-1. Description & Features
+		
+
+1. Description & Features 
 2. Purpose
 3. User's Manual
 4. Warnings & Limitations
