@@ -5,14 +5,14 @@ Version 1.0.1 | All Rights Reserved | Copyright © 2017
 
 		
 
-1. Description & Features 
+1. <a href="#Features">Description & Features</a> 
 2. Purpose
 3. User's Manual
 4. Warnings & Limitations
 
 --------------------------------------------------------------------------------------------
 
-1. Description & Features
+1. <a name="Features">Description & Features</a>
 
 The Conference Management Program is designed to package all the necessary tools 
 for a director into one easy-to-use application. Utilizing graphical user inference (GUI),
