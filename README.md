@@ -3,16 +3,14 @@ Version 1.0.1 | All Rights Reserved | Copyright © 2017
 
 -------------------------------------------------------------------------------------------
 
-		
-
 1. <a href="#Features">Description & Features</a> 
-2. Purpose
-3. User's Manual
-4. Warnings & Limitations
+2. <a href="#Purpose">Purpose</a>
+3. <a href="#Manual">User's Manual</a>
+4. <a href="#Limits">Warnings & Limitations</a>
 
 --------------------------------------------------------------------------------------------
 
-1. <a name="Features">Description & Features</a>
+<h3>1. <a name="Features">Description & Features</a></h3>
 
 The Conference Management Program is designed to package all the necessary tools 
 for a director into one easy-to-use application. Utilizing graphical user inference (GUI),
@@ -40,7 +38,7 @@ directors do their job with greater ease.
 
 
 
-2. Purpose
+<h3>2. <a name="Purpose">Purpose</a></h3>
 
 The director general of a local conference expressed to me his concern over the disorgan-
 -ized nature of directing, and was wondering if a program could be made that packages all 
@@ -56,7 +54,7 @@ access, and ease of mind.
 
 
 
-3. User's Manual
+<h3>3. <a name="Manual">User's Manual</a></h3>
 
 The conference curriculum application can be opened via a runnable .jar file. This .jar
 file can be downloaded by the zip folder that this text file is located in. Once
@@ -86,7 +84,7 @@ colors (yellow, orange, and red respectively).
 
 
 
-4. Warnings & Limitations
+<h3>4. <a name="Limits">Warnings & Limitations</a></h3>
 
 There are a few things that this application does not allow. The application do not allow
 time of over 59:59 (an hour) due to the way in which the algorithm was written. It is not
@@ -103,15 +101,6 @@ doesn't do anything).
 Lastly, do not enter a non-numeric number as the score for an attendee. The program is 
 written to account for numeric numbers only. So, for example, entering in "three" instead
 of 3 will result in an error pop-up that tells the user to enter only numeric numbers.
-
-
--------------------------------------------------------------------------------------------
-
-	          C O N F E R E N C E  M A N A G E M E N T  P R O G R A M 
-
-	           Version 1.0.1 | All Rights Reserved | Copyright © 2017
-
--------------------------------------------------------------------------------------------
 
 
 
