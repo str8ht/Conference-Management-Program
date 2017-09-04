@@ -19,19 +19,19 @@ more traditional methods of directing a conferene (i.e. paper/pencil, word proce
 phone timers, etc.) The Conference Management Program is free, and includes a number of
 convenient functionalities, such as:
 
-	- A timer for both speaking times and caucus times
-	- Indicators that turn on when the timers are near expiration
-	- A table that records both those in attendence and the score they are awarded
-	- A notes section that allows entries on individual statements.
-	- A find functionality to quickly lookup individuals in attendence.
-	- A list for recording the order of the speakers (speaker's list).The order can 
-	  be changed based on who has and hasn't spoken.
-	- Convenient file storage that backs-up all information recorded in the lists/ 
-	  notes to a .MUNe file
-	- An export-to-excel functionality that saves list information as a comma
-	  separated value (csv) file for later reference.
-	- A list of motions, following Robert's Rules of order, which can be used to 
-	  autopopulate the individual timers.
+<ul>-  A timer for both speaking times and caucus times.</ul>
+<ul>-  Indicators that turn on when the timers are near expiration.</ul>
+<ul>-  A table that records both those in attendence and the score they are awarded.</ul>
+<ul>-  A notes section that allows entries on individual statements.</ul>
+<ul>-  A find functionality to quickly lookup individuals in attendence.</ul>
+<ul>-  A list for recording the order of the speakers (speaker's list).The order can 
+	   be changed based on who has and hasn't spoken.</ul>
+<ul>-  Convenient file storage that backs-up all information recorded in the lists/ 
+	   notes to a .MUNe file</ul>
+<ul>-  An export-to-excel functionality that saves list information as a comma
+	   separated value (csv) file for later reference.</ul>
+<ul>-  A list of motions, following Robert's Rules of order, which can be used to 
+	   autopopulate the individual timers.</ul>
 
 The conference curriculum application is an organizational tool that can help conference
 directors do their job with greater ease.
