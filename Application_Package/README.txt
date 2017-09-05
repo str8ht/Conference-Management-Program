@@ -49,8 +49,8 @@ concerns included the fact that directors would often resort to writing their sp
 lists down on a piece of paper or on a chalk board, only to be lost or erased later on. 
 Directors were also having to resort to separate phone and computer applications for the
 two timers, which was inconvenient and drained battery life on their devices. Moreover,
-it is a constant challenge for directors to keep track on motions, in order of
-disruptiveness, to be consistant with Robert's Rules of Order. The Conference Management
+it was a constant challenge for directors to keep track of motions, in order of
+disruptiveness, and be consistant with Robert's Rules of Order. The Conference Management
 Program puts all of these tools into one location, allowing for ease of use, ease of
 access, and ease of mind.
 
