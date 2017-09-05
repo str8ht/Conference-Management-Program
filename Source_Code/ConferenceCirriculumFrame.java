@@ -136,7 +136,7 @@ public class ConferenceCirriculumFrame extends JFrame
 			}
 		};
 		addWindowListener(windowAdapter);
-		setTitle("VAMUN XXXVII");
+		setTitle("Conference Manager");
 		setLocation(600,200);
 	}
 	

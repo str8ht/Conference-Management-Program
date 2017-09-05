@@ -74,7 +74,7 @@ public class Attendee implements Comparable<Attendee>
 	
 	public String to$()
 	{
-		return name + "/0" + value + "/0" + profile + "[]";
+		return name + "/0" + value + "/0" + profile;
 	}
 	
 	public String getDefaultProfile()

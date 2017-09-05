@@ -17,12 +17,12 @@ public abstract class AbstractConferenceModel {
 
 	public void readFromFile(File fileName) throws FileNotFoundException {
 		Scanner scr = new Scanner(fileName);
-		scr.useDelimiter("[]\\n");
+		scr.useDelimiter(System.getProperty("line.separator"));
 
 		attendeeList = new ArrayList<Attendee>();
 		while (scr.hasNext()) {
 			String line = scr.next();
-			System.out.println(line);
+			//System.out.println(line);
 			attendeeList.add(parseAttendees(line));
 		}
 		scr.close();
@@ -52,12 +52,12 @@ public abstract class AbstractConferenceModel {
 
 	private Attendee parseAttendees(String line) {
 		String[] fields = line.split("/0");
-		
+		/*
 		for (int i=0; i<fields.length; i++)
 		{
 			System.out.println(fields[i]);
 		}
-		
+		*/
 		double value = (fields.length > 1) ? Double.parseDouble(fields[1]) : 0;
 		
 		return new Attendee(fields[0], value, fields[2]);
