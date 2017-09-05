@@ -24,8 +24,8 @@ convenient functionalities, such as:
 <ul>-  A table that records both those in attendence and the score they are awarded.</ul>
 <ul>-  A notes section that allows entries on individual statements.</ul>
 <ul>-  A find functionality to quickly lookup individuals in attendence.</ul>
-<ul>-  A list for recording the order of the speakers (speaker's list).The order can 
-	   be changed based on who has and hasn't spoken.</ul>
+<ul>-  A list for recording the order of the speakers (speaker's list). The order can 
+	   be rearranged at any point.</ul>
 <ul>-  Convenient file storage that backs-up all information recorded in the attendence 
 	   list/notes to a .MUNe file</ul>
 <ul>-  An export-to-excel functionality that saves list information as a comma
