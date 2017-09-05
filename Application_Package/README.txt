@@ -1,7 +1,7 @@
 	
 	          C O N F E R E N C E  M A N A G E M E N T  P R O G R A M 
 
-	           Version 1.0.1 | All Rights Reserved | Copyright © 2017	
+	           Version 1.0.2 | All Rights Reserved | Copyright © 2017	
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ of 3 will result in an error pop-up that tells the user to enter only numeric nu
 
 	          C O N F E R E N C E  M A N A G E M E N T  P R O G R A M 
 
-	           Version 1.0.1 | All Rights Reserved | Copyright © 2017
+	           Version 1.0.2 | All Rights Reserved | Copyright © 2017
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
