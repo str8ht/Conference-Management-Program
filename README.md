@@ -15,7 +15,7 @@ Version 1.0.2 | All Rights Reserved | Copyright © 2017
 The Conference Management Program is designed to package all the necessary tools 
 for a director into one easy-to-use application. Utilizing graphical user inference (GUI),
 the application has a series of buttons, lists, and timers that can be used to replace
-more traditional methods of directing a conferene (i.e. paper/pencil, word processors,
+more traditional methods of directing a conference (i.e. paper/pencil, word processors,
 phone timers, etc.) The Conference Management Program is free, and includes a number of
 convenient functionalities, such as:
 
@@ -24,10 +24,10 @@ convenient functionalities, such as:
 <ul>-  A table that records both those in attendence and the score they are awarded.</ul>
 <ul>-  A notes section that allows entries on individual statements.</ul>
 <ul>-  A find functionality to quickly lookup individuals in attendence.</ul>
-<ul>-  A list for recording the order of the speakers (speaker's list).The order can 
-	   be changed based on who has and hasn't spoken.</ul>
-<ul>-  Convenient file storage that backs-up all information recorded in the lists/ 
-	   notes to a .MUNe file</ul>
+<ul>-  A list for recording the order of the speakers (speaker's list). The order can 
+	   be rearranged at any point.</ul>
+<ul>-  Convenient file storage that backs-up all information recorded in the attendence 
+	   list/notes to a .MUNe file</ul>
 <ul>-  An export-to-excel functionality that saves list information as a comma
 	   separated value (csv) file for later reference.</ul>
 <ul>-  A list of motions, following Robert's Rules of order, which can be used to 
