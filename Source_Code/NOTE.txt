@@ -1,0 +1,8 @@
+Comments have been intentionally omitted from the source code in this repository.
+
+Please contact me if you wish to learn more about this application's development or how
+it works.
+
+Sean Rastatter
+University of Virginia
+str8ht@virginia.edu
